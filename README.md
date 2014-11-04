@@ -1,0 +1,4 @@
+daily-quarter
+=============
+
+for blog
